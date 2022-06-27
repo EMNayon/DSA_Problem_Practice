@@ -1,4 +1,4 @@
-// complexity O(logn)
+// complexity O(n)
 function averagePain(arr, num){
     let l = 0
     let r = arr.length - 1
